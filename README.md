@@ -2,9 +2,9 @@
 
 **A cryptographically secure chat system implementing Confidentiality, Integrity, Authenticity, and Non-Repudiation (CIANR) using AES-128, RSA-2048, Diffie-Hellman, and X.509 certificates.**
 
-**GitHub Repository:** https://github.com/naqvihassan/securechat-skeleton
 
-**Student:** Hassan Naqvi  
+
+**Student:**Mustafa Awan  
 **Roll Number:** 22I-0797  
 **Course:** CS-3002 Information Security - Fall 2025  
 **Institution:** FAST-NUCES
